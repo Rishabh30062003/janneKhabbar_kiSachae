@@ -1,4 +1,4 @@
-# JaaneKhabar_kiSachae: Real-time Fake News Detection System
+# JaaneKhabar_kiSachae: Real-time News Detection System
 
 ## Project Overview
 JaaneKhabar_kiSachae is a machine learning-based web application designed to detect fake and real news articles in real-time. It uses natural language processing (NLP) techniques along with multiple machine learning algorithms to classify news content accurately.
