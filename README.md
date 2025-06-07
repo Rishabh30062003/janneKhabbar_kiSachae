@@ -22,34 +22,8 @@ The system leverages datasets of labeled fake and real news, applies TF-IDF vect
 - HTML, CSS, Bootstrap (Frontend UI)
 
 ## Project Structure
-jaaneKhabar_kiSachae/
-│
-├── app.py                            # Main Flask application
-├── requirements.txt                  # List of required Python libraries
-├── new_detection_system.ipynb        # Jupyter Notebook for model training/evaluation
-├── README.md                         # Project documentation
-├── .gitignore                        # Files and folders to ignore in GitHub
-│
-├── templates/                        # HTML templates
-│   └── index.html                    # Main frontend page
-│
-├── static/                           # Static files like CSS/JS
-│   └── css/
-│       └── style.css                 # Styling for frontend
-│
-├── model/                            # Trained model files (pickle)
-│   ├── logistic_model.pkl
-│   ├── dt_model.pkl
-│   ├── rf_model.pkl
-│   ├── svm_model.pkl
-│   └── xgb_model.pkl
-│
-├── dataset/                          # Dataset files (not pushed to GitHub due to size)
-│   ├── Fake.csv
-│   └── True.csv
-│
-├── env/                              # Virtual environment (DO NOT push to GitHub)
-│   └── ... (your environment folders)
+![image](https://github.com/user-attachments/assets/460ccee0-143a-40b4-b674-3347c74a026b)
+
 
 ## Installation
 
