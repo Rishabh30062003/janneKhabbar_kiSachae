@@ -57,7 +57,8 @@ You can retrain the models by running the training script.
 
 ## Screenshot of visual results and home page
 ![Screenshot 2025-06-07 163009](https://github.com/user-attachments/assets/8c13ad27-a783-4eee-aab4-e2f1d1c50aef)
-
+![Screenshot 2025-06-07 162938](https://github.com/user-attachments/assets/f6958463-be9c-4fbb-8194-935a61457be1)
+![Screenshot 2025-06-07 162849](https://github.com/user-attachments/assets/41a25536-945f-4111-9499-0479e7806086)
 
 ## Notes
 Large files like datasets and environment folders are excluded from the repo using .gitignore.
